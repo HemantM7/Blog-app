@@ -2,42 +2,37 @@
 name: Bug report
 about: Create a report to help us improve
 title: '[BUG] '
-labels: 'bug'
+labels: bug
 assignees: ''
 ---
 
-## 🐛 Bug Description
+**Describe the bug**
 A clear and concise description of what the bug is.
 
-## 🔄 Steps to Reproduce
+**To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-## ✅ Expected Behavior
+**Expected behavior**
 A clear and concise description of what you expected to happen.
 
-## ❌ Actual Behavior
-A clear and concise description of what actually happened.
-
-## 📷 Screenshots
+**Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-## 🖥️ Environment
-- **OS**: [e.g. Windows 10, macOS Big Sur, Ubuntu 20.04]
-- **Browser**: [e.g. Chrome 96, Firefox 95, Safari 15]
-- **Node.js Version**: [e.g. 16.14.0]
-- **npm Version**: [e.g. 8.3.1]
+**Environment:**
+- OS: [e.g. Windows 10, macOS Big Sur]
+- Browser: [e.g. Chrome 91, Firefox 89]
+- Device: [e.g. Desktop, iPhone 12]
+- Version: [e.g. 1.0.0]
 
-## 📱 Device Information (if mobile)
-- **Device**: [e.g. iPhone 13, Samsung Galaxy S21]
-- **OS**: [e.g. iOS 15.2, Android 12]
-- **Browser**: [e.g. Safari, Chrome Mobile]
+**Console Errors**
+If applicable, paste any console errors here:
+```
+Paste console errors here
+```
 
-## 🔍 Additional Context
+**Additional context**
 Add any other context about the problem here.
-
-## 🔧 Possible Solution
-If you have ideas on how to fix this, please describe them here.

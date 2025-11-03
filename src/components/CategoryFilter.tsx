@@ -6,7 +6,7 @@ import {
   useTheme,
   keyframes
 } from '@mui/material';
-import { BLOG_CATEGORIES, BlogCategory } from '../types/blog';
+import { BLOG_CATEGORIES } from '../types/blog';
 
 const slideIn = keyframes`
   from {

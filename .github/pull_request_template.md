@@ -1,47 +1,48 @@
-## 📋 Description
-Brief description of what this PR does.
+## Description
 
-## 🔗 Related Issue
-Fixes #(issue number)
+Brief description of the changes made in this PR.
 
-## 🎯 Type of Change
-- [ ] 🐛 Bug fix (non-breaking change which fixes an issue)
-- [ ] ✨ New feature (non-breaking change which adds functionality)
-- [ ] 💥 Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] 📚 Documentation update
-- [ ] 🎨 Style/UI changes
-- [ ] ♻️ Code refactoring
-- [ ] ⚡ Performance improvements
-- [ ] 🧪 Test additions or updates
+## Type of Change
 
-## 🧪 Testing
-- [ ] I have tested this change locally
-- [ ] I have added/updated tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] I have tested on multiple browsers (Chrome, Firefox, Safari)
-- [ ] I have tested on mobile devices
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Documentation update
+- [ ] Code refactoring
+- [ ] Performance improvement
+- [ ] Other (please describe):
 
-## 📷 Screenshots (if applicable)
+## Changes Made
+
+- List the main changes made
+- Include any new components or features
+- Mention any breaking changes
+
+## Screenshots (if applicable)
+
 Add screenshots to help explain your changes.
 
-### Before
-[Screenshot of before state]
+## Testing
 
-### After
-[Screenshot of after state]
+- [ ] I have tested these changes locally
+- [ ] I have tested on different screen sizes
+- [ ] I have tested on different browsers
+- [ ] All existing tests pass
+- [ ] I have added tests for new functionality
 
-## ✅ Checklist
+## Checklist
+
 - [ ] My code follows the project's style guidelines
-- [ ] I have performed a self-review of my own code
+- [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published
+- [ ] I have checked my code and corrected any misspellings
 
-## 🔄 Breaking Changes
-List any breaking changes and migration steps if applicable.
+## Related Issues
 
-## 📝 Additional Notes
-Add any additional notes, concerns, or questions for reviewers.
+Closes #(issue number)
+
+## Additional Notes
+
+Any additional information or context about the PR.

@@ -2,6 +2,16 @@
 
 A modern, responsive blog application built with React, TypeScript, and Material-UI featuring beautiful gradient themes, smooth animations, and comprehensive blog management functionality.
 
+[![Deploy to GitHub Pages](https://github.com/yourusername/simple-blog-ui/actions/workflows/deploy.yml/badge.svg)](https://github.com/yourusername/simple-blog-ui/actions/workflows/deploy.yml)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://mui.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+
+## 🌐 Live Demo
+
+**[View Live Demo](https://yourusername.github.io/simple-blog-ui/)**
+
 ![Blog UI Preview](https://via.placeholder.com/800x400/00f5ff/ffffff?text=Simple+Blog+UI)
 
 ## 🚀 Features
@@ -61,6 +71,30 @@ A modern, responsive blog application built with React, TypeScript, and Material
    ```
    http://localhost:5173
    ```
+
+## 🚀 Deployment
+
+### GitHub Pages (Automatic)
+
+1. **Fork this repository**
+2. **Enable GitHub Pages** in repository settings
+3. **Push to main branch** - automatic deployment via GitHub Actions
+
+### Manual Deployment
+
+```bash
+# Build for production
+npm run build:prod
+
+# Deploy to GitHub Pages
+npm run deploy
+```
+
+### Other Platforms
+
+- **Vercel**: Connect your GitHub repo for automatic deployments
+- **Netlify**: Drag and drop the `dist` folder or connect via Git
+- **Firebase Hosting**: Use `firebase deploy` after building
 
 ## 🏗️ Project Structure
 

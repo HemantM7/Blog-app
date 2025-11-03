@@ -13,6 +13,9 @@ const defaultImages = [
   'https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=250&fit=crop'
 ];
 
+// Import BLOG_CATEGORIES for initial data
+import { BLOG_CATEGORIES } from '../types/blog';
+
 // Initial mock data
 const initialBlogs: Blog[] = [
   {
@@ -22,7 +25,8 @@ const initialBlogs: Blog[] = [
     author: { name: 'John Doe' },
     createdAt: '2024-01-15',
     excerpt: 'Learn how to set up a React project with TypeScript and best practices for development.',
-    image: 'https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=250&fit=crop'
+    image: 'https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=250&fit=crop',
+    category: BLOG_CATEGORIES[0] // Technology
   },
   {
     id: '2',
@@ -31,7 +35,8 @@ const initialBlogs: Blog[] = [
     author: { name: 'Jane Smith' },
     createdAt: '2024-01-14',
     excerpt: 'Explore the comprehensive design system provided by Material UI for React applications.',
-    image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=250&fit=crop'
+    image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=250&fit=crop',
+    category: BLOG_CATEGORIES[0] // Technology
   },
   {
     id: '3',
@@ -40,7 +45,8 @@ const initialBlogs: Blog[] = [
     author: { name: 'Mike Johnson' },
     createdAt: '2024-01-13',
     excerpt: 'Master the art of creating responsive layouts that work across all device sizes.',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop'
+    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop',
+    category: BLOG_CATEGORIES[6] // Education
   }
 ];
 
