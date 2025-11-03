@@ -17,6 +17,7 @@
     "prepare": "git config core.autocrlf false && git config core.eol lf",
     "predeploy": "npm run build:prod",
     "deploy": "gh-pages -d dist",
+    "deploy:netlify": "npm run build && netlify deploy --prod --dir=dist",
     "test": "echo \"No tests specified\" && exit 0",
     "analyze": "npx vite-bundle-analyzer dist/stats.html"
   },
