@@ -2,7 +2,7 @@
 
 A modern, responsive blog application built with React, TypeScript, and Material-UI featuring beautiful gradient themes, smooth animations, and comprehensive blog management functionality.
 
-[![Deploy to GitHub Pages](https://github.com/yourusername/simple-blog-ui/actions/workflows/deploy.yml/badge.svg)](https://github.com/yourusername/simple-blog-ui/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/HemantM7/Blog-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/HemantM7/Blog-app/actions/workflows/deploy.yml)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://mui.com/)
@@ -10,7 +10,7 @@ A modern, responsive blog application built with React, TypeScript, and Material
 
 ## 🌐 Live Demo
 
-**[View Live Demo](https://yourusername.github.io/simple-blog-ui/)**
+**[View Live Demo](https://hemantm7.github.io/Blog-app/)**
 
 ![Blog UI Preview](https://via.placeholder.com/800x400/00f5ff/ffffff?text=Simple+Blog+UI)
 
